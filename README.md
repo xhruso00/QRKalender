@@ -1,13 +1,4 @@
 # QRKalender
-Helper that creates multi-date ICS file to be shared as QR code
-
-https://github.com/xhruso00/QRKalender/raw/main/Images/main-window.png
-
-
-https://github.com/xhruso00/QRKalender/raw/main/Images/qr-window.png
-
-
-# QRKalender
 Simple utility that should save you some time. 
 It can create multi-date ICS file + generate QR code of this ICS file
 
