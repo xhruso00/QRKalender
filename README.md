@@ -3,7 +3,7 @@ Simple utility that should save you some time.
 It can create multi-date ICS file + generate QR code of this ICS file
 
 
-Just run the notarized app from zip file https://github.com/xhruso00/QRKalender/releases/tag/1.0 [here](https://github.com/xhruso00/QRKalender/releases/tag/1.0)
+Just run the notarized app from zip file https://github.com/xhruso00/QRKalender/releases/ [here](https://github.com/xhruso00/QRKalender/releases/tag/1.0)
 
 # Application window
 ![](https://github.com/xhruso00/QRKalender/raw/main/Images/main-window.png)
